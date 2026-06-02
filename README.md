@@ -1,4 +1,4 @@
-# CRE-Python-Solution
+# CRE-Python-Solutions
 
 Python solutions for Chemical Reaction Engineering (CRE) Assingments covering chemical kinetics, batch reactor data analysis, reactor sizing, recycle reactors, and non-ideal flow systems.
 
